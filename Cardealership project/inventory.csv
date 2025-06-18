@@ -1,0 +1,48 @@
+Toyota,Corolla,2020,15000.0,0
+Toyota,Camry,2021,25000.0,3
+Honda,Accord,2019,20000.0,2
+Honda,Civic,2020,18000.0,4
+Ford,Fusion,2018,17000.0,6
+Ford,Escape,2021,28000.0,1
+Chevrolet,Malibu,2019,19000.0,3
+Chevrolet,Cruze,2020,17000.0,5
+Nissan,Altima,2017,16000.0,2
+Nissan,Maxima,2018,22000.0,4
+Hyundai,Sonata,2021,23000.0,3
+Hyundai,Elantra,2019,18000.0,7
+Kia,Optima,2018,19000.0,2
+Kia,Forte,2020,17000.0,3
+Volkswagen,Passat,2019,21000.0,5
+Volkswagen,Jetta,2020,19000.0,2
+Subaru,Legacy,2021,26000.0,4
+Subaru,Impreza,2019,22000.0,3
+Mazda,Mazda3,2018,20000.0,1
+Mazda,Mazda6,2020,24000.0,2
+Mercedes-Benz,C-Class,2019,35000.0,4
+Mercedes-Benz,E-Class,2021,50000.0,2
+BMW,3 Series,2018,32000.0,3
+BMW,5 Series,2020,45000.0,1
+Audi,A4,2019,38000.0,3
+Audi,A6,2021,55000.0,2
+Lexus,IS,2017,30000.0,3
+Lexus,ES,2018,40000.0,2
+Infiniti,Q50,2019,35000.0,1
+Infiniti,Q60,2020,48000.0,3
+Tesla,Model 3,2019,45000.0,4
+Tesla,Model S,2020,80000.0,2
+Ford,F-150,2019,35000.0,3
+Ford,Explorer,2020,45000.0,1
+Chevrolet,Silverado,2018,32000.0,3
+Chevrolet,Tahoe,2021,60000.0,2
+GMC,Sierra 1500,2020,55000.0,1
+GMC,Yukon,2019,60000.0,3
+Ram,1500,2018,30000.0,2
+Ram,2500,2020,45000.0,5
+Toyota,Tundra,2019,40000.0,2
+Toyota,4Runner,2020,42000.0,3
+Nissan,Titan,2018,35000.0,4
+Nissan,Frontier,2021,28000.0,2
+Honda,Ridgeline,2019,35000.0,1
+Honda,Pilot,2020,38000.0,4
+Jeep,Wrangler,2018,30000.0,1
+Jeep,Grand Cherokee,2020,42000.0,0
